@@ -27,7 +27,7 @@ The project includes posts, comments, reactions, saved posts, profiles, dashboar
 * practical UX systems and edge-case handling
 
 **Live:** https://liferecompiled.com
-**Repo:** https://github.com/cole92/liferecompiled
+**Repo:** https://github.com/aleksandar-todorovic-dev/liferecompiled
 
 ---
 
@@ -49,7 +49,7 @@ A product-focused project built around structured user flow, real-life training 
 * partial-day support
 * product thinking and MVP scope control
 
-**Repo:** https://github.com/cole92/training-app
+**Repo:** https://github.com/aleksandar-todorovic-dev/training-app
 
 ---
 
